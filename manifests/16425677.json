@@ -1,0 +1,10 @@
+{
+  "name": "FC 25",
+  "versions": [
+    {
+      "version": "1.0.130.16994",
+      "download": "https://github.com/gorlock777/game-updater-manifests/releases/download/F125/icon.7z",
+      "latest": true
+    }
+  ]
+}
